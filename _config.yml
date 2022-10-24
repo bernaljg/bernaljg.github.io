@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bernal Jim\'{e}nez Guti\'{e}rrez"
+title                    : "Bernal Jiménez Gutiérrez"
 title_separator          : "-"
-name                     : &name "Bernal Jim\'{e}nez Guti\'{e}rrez"
+name                     : &name "Bernal Jiménez Gutiérrez"
 description              : &description ""
 url                      : https://bernaljg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,12 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bernal Jim\'{e}nez Guti\'{e}rrez"
+  name             : "Bernal Jiménez Gutiérrez"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
