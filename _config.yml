@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bernal Jim$enez Guti$errez"
+title                    : "Bernal Jim\'{e}nez Guti\'{e}rrez"
 title_separator          : "-"
-name                     : &name "Bernal Jim$enez Guti$errez"
+name                     : &name "Bernal Jim\'{e}nez Guti\'{e}rrez"
 description              : &description ""
 url                      : https://bernaljg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bernal Jim$enez Guti$errez"
+  name             : "Bernal Jim\'{e}nez Guti\'{e}rrez"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
