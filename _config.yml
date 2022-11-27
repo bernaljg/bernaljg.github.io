@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bernal Jiménez Gutiérrez"
 title_separator          : "-"
 name                     : &name "Bernal Jiménez Gutiérrez"
-description              : &description ""
+description              : &description "Description"
 url                      : https://bernaljg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bernaljg.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Bernal Jiménez Gutiérrez"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Welcome! My name is Bernal Jiménez and I'm a Computer Science & Engineering PhD student at The Ohio State University under the guidance of Prof. Yu Su. My work focuses on natural language processing and machine learning."
+  location         : "Columbus, OH"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5M6H-oEqTfOjhN7_FOXQvfjcmteV5n4DvUOIwmDrmrm8A1WMKIKfdyL7ph1_fyET3JI-YMy-PrutS_udH0jMlMzCtdHw&user=GQ29DQsAAAAJ"
+  email            : "jimenezgutierrez.1 at osu dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/bernaljg"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/bernal-jimenez/"
+  orcid            : "http://orcid.org/0000-0002-8704-6057"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "bernaaaljg"
   vine             :
   weibo            :
   xing             :
