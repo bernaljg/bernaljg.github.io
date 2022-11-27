@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Fall 2019 - Present: Research Assistant
-  * Data The Ohio State University
+  * Data, Knowledge and Intelligence Lab | The Ohio State University
   * Supervisor: [Prof. Yu Su](https://ysu1989.github.io)
 
 * Summer 2022: Research Intern
