@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bernal Jiménez Gutiérrez"
+  name             : "Bernal\nJiménez\nGutiérrez"
   avatar           : "profile.png"
-  bio              : "Welcome! My name is Bernal Jiménez and I'm a Computer Science & Engineering PhD student at The Ohio State University under the guidance of Prof. Yu Su. My work focuses on natural language processing and machine learning."
+  bio              : "PhD Student in NLP @ The Ohio State University\nCosta Rica\n"
   location         : "Columbus, OH"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5M6H-oEqTfOjhN7_FOXQvfjcmteV5n4DvUOIwmDrmrm8A1WMKIKfdyL7ph1_fyET3JI-YMy-PrutS_udH0jMlMzCtdHw&user=GQ29DQsAAAAJ"
