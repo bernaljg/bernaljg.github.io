@@ -80,9 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bernal
-  Jiménez
-  Gutiérrez"
+  name             : "Bernal Jiménez Gutiérrez"
   avatar           : "profile.png"
   bio              : "PhD Student in NLP @ The Ohio State University"
   location         : "Columbus, OH"
@@ -116,7 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  cv.              : "https://github.com/bernaljg/bernaljg.github.io/tree/master/files/Bernal_Jimenez_CV (1).pdf"
 
 # Reading Files
 include:
