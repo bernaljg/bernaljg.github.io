@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Applied Mathematics, UC Berkeley, 2015
+* Ph.D in Computer Science & Engineering, The Ohio State University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019 - Present: Research Assistant
+  * Data The Ohio State University
+  * Supervisor: [Prof. Yu Su](https://ysu1989.github.io)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2022: Research Intern
+  * National Library of Medicine
+  * Supervisor: [Dr. Olivier Bodenreider](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2016-2019: AI Research Developer
+  * Mendel AI
+  * Supervisor: [Dr. Wael Salloum](https://www.linkedin.com/in/waelsalloum/)
   
-Talks
+Academic Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Committee Member/Reviewer:
+  * EACL 2021
+  * EMNLP 2021
+  * EMNLP 2022
+* External Reviewer:
+  * EMNLP 2020
+  * ACL 2021
+  * KDD 2021
+  * KDD 2022
