@@ -12,11 +12,10 @@ author_profile: true
 {% endfor %}
  -->
 
-* **CSE 1222: Introduction to Computer Programming in C++ for Engineers and Scientists** 
-**Fall 2019**
-**Teaching Assistant**
+* **CSE 1222: Introduction to Computer Programming in C++ for Engineers and Scientists** <br>
+**Fall 2019** <br>
+Teaching Assistant
 
-
-* **CSE 1223: Introduction to Computer Programming in Java** 
-**Fall 2020**
-**Teaching Assistant**
+* **CSE 1223: Introduction to Computer Programming in Java** <br>
+**Fall 2020**<br>
+Teaching Assistant
