@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* B.A. in Applied Mathematics, UC Berkeley, 2015
-* Ph.D in Computer Science & Engineering, The Ohio State University, 2024 (expected)
+* B.A. in Applied Mathematics, Minor in Physics <br> UC Berkeley <br> 2015
+* Ph.D in Computer Science & Engineering <br> The Ohio State University <br> 2024 (expected)
 
 Work experience
 ======
