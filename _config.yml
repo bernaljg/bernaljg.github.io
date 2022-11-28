@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bernal Jiménez Gutiérrez"
   avatar           : "profile.png"
-  bio              : "PhD Student in NLP @ The Ohio State University"
+  bio              : "PhD Student @ The Ohio State University"
   location         : "Columbus, OH"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5M6H-oEqTfOjhN7_FOXQvfjcmteV5n4DvUOIwmDrmrm8A1WMKIKfdyL7ph1_fyET3JI-YMy-PrutS_udH0jMlMzCtdHw&user=GQ29DQsAAAAJ"
@@ -114,7 +114,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv.              : "https://github.com/bernaljg/bernaljg.github.io/tree/master/files/Bernal_Jimenez_CV (1).pdf"
 
 # Reading Files
 include:
