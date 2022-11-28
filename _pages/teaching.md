@@ -11,6 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
  -->
+
 * **CSE 1222: Introduction to Computer Programming in C++ for Engineers and Scientists** 
 **Fall 2019**
 **Teaching Assistant**
