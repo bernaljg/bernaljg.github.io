@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Bio
+## About Me
 
 Hi! My name is Bernal Jiménez, I'm a Computer Science PhD student at The Ohio State University working with [Prof. Yu Su](https://ysu1989.github.io/). My research relates broadly to natural language processing and machine learning, I am specifically interested on investigating **low-resource biomedical information extraction** and **foundation models**.
 
