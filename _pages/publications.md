@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+ -->
 * **Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again** <br>**EMNLP 2022 (Findings)** [`[pdf]`](https://arxiv.org/pdf/2203.08410.pdf)[`[code]`](https://github.com/dki-lab/few-shot-bioIE) <br>
 <span style="color:grey">**Bernal Jiménez Gutiérrez**, Nikolas McNeal, Clay Washington, You Chen, Lang Li, Huan Sun, Yu Su</span>
 
