@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+## Short Bio
 
 Hi! My name is Bernal Jiménez, I'm a Computer Science PhD student at The Ohio State University working with [Prof. Yu Su](https://ysu1989.github.io/). My research relates broadly to natural language processing and machine learning, I am specifically interested on investigating **low-resource biomedical information extraction** and **foundation models**.
 
-I obtained my BA from UC Berkeley in Applied Mathematics with a concentration in Probability Theory and a minor in Physics. After graduation, I was lucky enough to join [Dr. Karim Galil](https://www.linkedin.com/in/karim-galil-m-d-83a2b258/) and [Dr. Wael Salloum](https://www.linkedin.com/in/waelsalloum/) at [Mendel AI](https://www.mendel.ai/), a budding biomedical NLP startup, where I not only developed my technical and research skills but also saw first hand what it takes to build a successful company from the ground up. After three years I left Mendel to pursue my own research interests and joined the **Data, Knowledge and Intelligence Lab** led by Prof. Yu Su at The Ohio State University in Fall 2019. During Summer 2022, I completed a research internship in [Dr. Olivier Bodenreider’s](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html) lab at the National Library of Medicine where I worked on improving the real-world applicability of deep learning models for the management of the United Medical Language System, one of the largest open source medical knowledge bases. More information can be found in my [CV (Nov 2022)](https://bernaljg.github.io/files/Bernal_Jimenez_CV%20(1).pdf).
+I obtained my BA from UC Berkeley in Applied Mathematics with a concentration in Probability Theory and a minor in Physics. After graduation, I was lucky enough to join [Dr. Karim Galil](https://www.linkedin.com/in/karim-galil-m-d-83a2b258/) and [Dr. Wael Salloum](https://www.linkedin.com/in/waelsalloum/) at [Mendel AI](https://www.mendel.ai/), a budding biomedical NLP startup, where I not only developed my technical and research skills but also saw first hand what it takes to build a successful company from the ground up. After three years I left Mendel to pursue my own research interests and joined the **Data, Knowledge and Intelligence Lab** led by Prof. Yu Su at The Ohio State University in Fall 2019. This summer I completed a research internship in [Dr. Olivier Bodenreider’s](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html) lab at the National Library of Medicine. More information can be found in my [CV (Nov 2022)](https://bernaljg.github.io/files/Bernal_Jimenez_CV%20(1).pdf).
 
 ## Research Interests
 
