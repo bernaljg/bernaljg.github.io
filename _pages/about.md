@@ -25,11 +25,7 @@ I hope that working on improving IE systems in these **4** directions (efficienc
 ## News
   
 <b>10/2022:</b> Our [paper](https://arxiv.org/pdf/2203.08410.pdf) discussing potential limitations of GPT-3 in-context learning for biomedical IE was accepted to EMNLP 2022 (Findings). <br>
-  
 <b>5/2022:</b> Joined Dr. Bodenreider's lab at the National Library of Medicine for a summer internship. <br>
-  
 <b>3/2021:</b> Won an Accelerator Grant from the Translational Data Analytics Institute for Social Media Pharmacovigilance. <br>
-  
 <b>10/2020:</b> Our [paper](https://aclanthology.org/2020.findings-emnlp.332/) introducing a text classification dataset regarding COVID-19 documents was accepted to EMNLP 2020 (Findings). <br>
-  
 <b>4/2020:</b> Our [paper]( http://aclanthology.lst.uni-saarland.de/2020.acl-main.410.pdf) conducting a comprehensive study on the Clinical Reading Comprehension task based on the emrQA dataset was accepted to ACL 2020. <br>
