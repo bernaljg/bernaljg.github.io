@@ -20,7 +20,7 @@ Within the last decade, deep learning techniques from word embeddings to massive
 
 My research focuses on lowering the risks and costs of information extraction systems to enable more parties to make thorough use of them. In particular, I am passionate about exploring how to best leverage **foundation models** to improve **data efficiency** and **generalizability** in IE systems as well as how open-source knowledge resources like knowledge bases and taxonomies can make these systems more **interpretable** and **controllable**. 
 
-I hope that working on improving IE systems in these **4** directions (efficiency, generalizability, interpretability and controllability) will help meet the demands of high-impact areas like clinical practice, biomedical research, law, journalism and others. Due to their high impact and complexity, my current work is narrowly focused on the biomedical and clinical domains. I am excited to continue exploring these fields throughout my PhD as well as branch out to other domains in the future. [paper](https://arxiv.org/pdf/2203.08410.pdf)
+I hope that working on improving IE systems in these **4** directions (efficiency, generalizability, interpretability and controllability) will help meet the demands of high-impact areas like clinical practice, biomedical research, law, journalism and others. My current work is focuses more narrowly on the biomedical and clinical domains due to their high impact and complexity, I am excited to continue exploring these fields throughout my PhD as well as branch out to other domains in the future.
 
 ## News
   
