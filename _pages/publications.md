@@ -14,6 +14,16 @@ permalink: /publications/
   {% include archive-single.html %}
 {% endfor %}
  -->
+* **Biomedical Language Models are Robust to Sub-optimal Tokenization**
+<span style="color:grey">Bernal Jiménez Gutiérrez, Huan Sun, Yu Su</span> <br>
+**BioNLP @ ACL 2023** <br>
+[\[pdf\]](https://arxiv.org/pdf/2306.17649.pdf)[\[code\]](https://github.com/OSU-NLP-Group/Bio-Tokenization) 
+
+* **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**
+<span style="color:grey">Kai Zhang, Bernal Jiménez Gutiérrez, Yu Su</span> <br>
+**ACL 2023 (Findings)** <br>
+[\[pdf\]](https://arxiv.org/pdf/2305.11159.pdf)[\[code\]](https://github.com/OSU-NLP-Group/QA4RE) 
+
 * **Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again** <br>
 <span style="color:grey">Bernal Jiménez Gutiérrez, Nikolas McNeal, Clay Washington, You Chen, Lang Li, Huan Sun, Yu Su</span> <br>
 **EMNLP 2022 (Findings)** <br>
