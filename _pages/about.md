@@ -27,8 +27,8 @@ For more information, please check out my [CV (Nov 2022)](https://bernaljg.githu
 
 ## News
 
-<b>6/2023:</b> Our [paper](https://arxiv.org/pdf/2306.17649.pdf) exploring whether the sub-optimal segmentation performance of standard biomedical tokenizers has an effect on downstream LM performance was accepted to the BioNLP Workshop @ ACL 2023. <br>  
-<b>5/2023:</b> Our [paper](https://arxiv.org/pdf/2305.11159.pdf) unlocking the hidden relation extraction abilities of LLMs by aligning RE with question answering was accepted to ACL 2023 (Findings). <br>  
+<b>6/2023:</b> Our [paper](https://arxiv.org/pdf/2306.17649.pdf) exploring whether the sub-optimal segmentation performance of standard biomedical tokenizers has an effect on downstream LM performance was accepted to the BioNLP Workshop @ ACL 2023.<br>
+<b>5/2023:</b> Our [paper](https://arxiv.org/pdf/2305.11159.pdf) unlocking the hidden relation extraction abilities of LLMs by aligning RE with question answering was accepted to ACL 2023 (Findings).<br>
 <b>10/2022:</b> Our [paper](https://arxiv.org/pdf/2203.08410.pdf) discussing potential limitations of GPT-3 in-context learning for biomedical IE was accepted to EMNLP 2022 (Findings). <br>
 <b>5/2022:</b> Joined Dr. Bodenreider's lab at the National Library of Medicine for a summer internship. <br>
 <b>3/2021:</b> Won an Accelerator Grant from the Translational Data Analytics Institute for Social Media Pharmacovigilance. <br>
