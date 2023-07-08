@@ -23,7 +23,7 @@ My current work is more narrowly focused on evaluating the incredible opportunit
 
 I obtained my BA from UC Berkeley in Applied Mathematics with a concentration in Probability Theory and a minor in Physics. After graduation, I was lucky enough to join [Dr. Karim Galil](https://www.linkedin.com/in/karim-galil-m-d-83a2b258/) and [Dr. Wael Salloum](https://www.linkedin.com/in/waelsalloum/) at [Mendel AI](https://www.mendel.ai/), a budding biomedical NLP startup, where I not only developed my technical and research skills but also saw first hand what it takes to build a successful company from the ground up. After three years, I left Mendel to pursue my own research interests and joined the **Data, Knowledge and Intelligence Lab** led by Prof. Yu Su at The Ohio State University in Fall 2019. Last summer I completed a research internship in [Dr. Olivier Bodenreider’s](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html) lab at the National Library of Medicine working on making the process of maintaining the Unified Medical Language System (UMLS) more efficient and higher quality. 
 
-For more information, please check out my [CV (Nov 2022)](https://bernaljg.github.io/files/Bernal_Jimenez_CV.pdf).
+For more information, please check out my [CV (July 2023)](https://bernaljg.github.io/files/Bernal_Jimenez_CV__July_2023.pdf).
 
 ## News
 
