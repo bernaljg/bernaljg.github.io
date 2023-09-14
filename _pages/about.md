@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a Computer Science PhD student at The Ohio State University. I feel very fortunate to be a part of the wonderful OSUNLP 
+I'm a Computer Science PhD student at The Ohio State University. I feel very fortunate to be a part of the wonderful OSU NLP 
 lab and have [Prof. Yu Su](https://ysu1989.github.io/) as my advisor.
 
 ## Research Interests
@@ -50,7 +50,7 @@ a biomedical NLP startup working to make clinical trial recruitment more effecti
 At Mendel, I not only developed my technical and research skills but also saw first hand 
 what it takes to build a successful company from the ground up. 
 
-After three years, in the Fall of 2019, I left Mendel to join the OSUNLP lab and further develop my research skills. 
+After three years, in the Fall of 2019, I left Mendel to join the OSU NLP lab and further develop my research skills. 
 Most recently, in the summer of 2022, I completed a research internship in [Dr. Olivier Bodenreider’s](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html) 
 lab at the National Library of Medicine working on improving the construction process of the Unified Medical Language System (UMLS). 
 
