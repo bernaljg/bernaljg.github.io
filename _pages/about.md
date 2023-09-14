@@ -9,21 +9,25 @@ redirect_from:
 ---
 
 
-Hi! I am a Computer Science PhD student at The Ohio State University working with [Prof. Yu Su](https://ysu1989.github.io/). My research is broadly related to natural language processing and machine learning and more specifically focuses on exploring **foundation models** and how they can be optimally harnessed for **low-resource NLP** in high-impact fields such as biomedical and scientific research, medicine and law.
+I'm a Computer Science PhD student at The Ohio State University. I feel very fortunate to be a part of the wonderful OSUNLP 
+lab and have [Prof. Yu Su](https://ysu1989.github.io/) as my advisor.
 
 ## Research Interests
 
-Within the last decade, deep learning techniques from word embeddings to massive language models have enabled an explosion in our capacity to automate natural language processing (NLP) tasks and information extraction (IE) tasks in particular.  However, leveraging new NLP technologies often comes with high engineering and data costs, factors which make them risky to implement for many smaller institutions.
+Over the last few years, my research has focused on leveraging and understanding **language models** of different 
+sizes and domain-specificities for biomedical NLP tasks such as **information extraction** and **text classification**,
+crucial pieces of impactful downstream applications such as organizing scientific literature, detecting 
+dangerous drug-drug interactions or finding side-effects on social media which were previously unknown. 
+This research has been driven by my passion for leveraging technology to help tackle impactful real-world problems which 
+were previously impossible to solve. 
+I am beyond excited to tackle the growing number of ready-to-solve problems that NLP has unlocked in a vast number of fields
+from medicine and science to journalism, governance, education and more.
 
-My research focuses on lowering the risks and costs of NLP systems to enable more parties to make thorough use of them. In particular, I am passionate about exploring how to best leverage modern **foundation models** to improve **data efficiency** and **generalizability** in NLP systems as well as how open-source knowledge resources like knowledge bases and taxonomies can make these systems more **interpretable** and **controllable**. I believe that improving NLP systems in these **4** directions (efficiency, generalizability, interpretability and controllability) will help meet the demands of high-impact areas like clinical practice, biomedical and scientific research, law and many others others. 
-
-My current work is more narrowly focused on evaluating the incredible opportunities in generalizability and data efficiency that come with large language models like GPT-3 but also their risks and potentially surprising pitfalls primarly in the biomedical and clinical domains due to their high impact and complexity. I am excited to continue exploring these application fields throughout my PhD.
-
-## Short Bio
-
-I obtained my BA from UC Berkeley in Applied Mathematics with a concentration in Probability Theory and a minor in Physics. After graduation, I was lucky enough to join [Dr. Karim Galil](https://www.linkedin.com/in/karim-galil-m-d-83a2b258/) and [Dr. Wael Salloum](https://www.linkedin.com/in/waelsalloum/) at [Mendel AI](https://www.mendel.ai/), a budding biomedical NLP startup, where I not only developed my technical and research skills but also saw first hand what it takes to build a successful company from the ground up. After three years, I left Mendel to pursue my own research interests and joined the **Data, Knowledge and Intelligence Lab** led by Prof. Yu Su at The Ohio State University in Fall 2019. Last summer I completed a research internship in [Dr. Olivier Bodenreider’s](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html) lab at the National Library of Medicine working on making the process of maintaining the Unified Medical Language System (UMLS) more efficient and higher quality. 
-
-For more information, please check out my [CV (July 2023)](https://bernaljg.github.io/files/Bernal_Jimenez_CV__July_2023.pdf).
+Beyond translational research, I am very interested in exploring how the apparent intelligence of LLMs emerges and
+how it relates to human cognition. More specifically, I aim to investigate the interdependence of memorization and reasoning
+in LLMs through retrieval-augmentation as well as methods from the knowledge-editing and probing literature. Given that our
+intuition dictates that we can reason without memorization, I believe that exploring to what extent LLMs can do this as well
+will lead to interesting insights for both improving LLMs and perhaps seeing our own brains a bit differently.
 
 ## News
 
@@ -34,3 +38,27 @@ For more information, please check out my [CV (July 2023)](https://bernaljg.gith
 <b>3/2021:</b> Won an Accelerator Grant from the Translational Data Analytics Institute for Social Media Pharmacovigilance. <br>
 <b>10/2020:</b> Our [paper](https://aclanthology.org/2020.findings-emnlp.332/) introducing a text classification dataset regarding COVID-19 documents was accepted to EMNLP 2020 (Findings). <br>
 <b>4/2020:</b> Our [paper]( http://aclanthology.lst.uni-saarland.de/2020.acl-main.410.pdf) conducting a comprehensive study on the Clinical Reading Comprehension task based on the emrQA dataset was accepted to ACL 2020. <br>
+
+## Short Bio
+
+I obtained my BA in Applied Mathematics from UC Berkeley where I also first encountered the wonders of backprop at 
+the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/). 
+After graduation, in order to pursue my passion for solving impactful problems, I joined
+[Dr. Karim Galil](https://www.linkedin.com/in/karim-galil-m-d-83a2b258/) 
+and [Dr. Wael Salloum](https://www.linkedin.com/in/waelsalloum/) at [Mendel AI](https://www.mendel.ai/), 
+a biomedical NLP startup working to make clinical trial recruitment more effective and efficient. 
+At Mendel, I not only developed my technical and research skills but also saw first hand 
+what it takes to build a successful company from the ground up. 
+
+After three years, in the Fall of 2019, I left Mendel to join the OSUNLP lab and further develop my research skills. 
+Most recently, in the summer of 2022, I completed a research internship in [Dr. Olivier Bodenreider’s](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html) 
+lab at the National Library of Medicine working on improving the construction process of the Unified Medical Language System (UMLS). 
+
+For more information, please check out my [CV (July 2023)](https://bernaljg.github.io/files/Bernal_Jimenez_CV__July_2023.pdf).
+
+## Hobbies & Fun
+
+In my free time, I like to stay active by going to the gym, dancing, playing soccer, climbing and hiking (preferably to 
+and from tall mountains). I also love meeting interesting new people and learning about their lives (conferences are my 
+happy place). When I am not moving around or socializing I like indulging in fun escapist content such as fantasy, 
+sci-fi and even some magical realism from time to time. 
