@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+Hi!
 
-I'm a Computer Science PhD student at The Ohio State University. I feel very fortunate to be a part of the wonderful OSU NLP 
-lab and have [Prof. Yu Su](https://ysu1989.github.io/) as my advisor.
+I'm a fifth year Computer Science PhD student at The Ohio State University. 
+I feel very fortunate to be advised by [Prof. Yu Su](https://ysu1989.github.io/) and form part of the wonderful OSU NLP lab.
 
 ## Research Interests
 
 Over the last few years, my research has focused on leveraging and understanding **language models** of different 
-sizes and domain-specificities for biomedical NLP tasks such as **information extraction** and **text classification**,
-crucial pieces of impactful downstream applications such as organizing scientific literature, detecting 
+sizes and specialized in different domains for biomedical NLP tasks such as **information extraction** and **text classification**, 
+key components of downstream applications such as organizing scientific literature, detecting 
 dangerous drug-drug interactions or finding side-effects on social media which were previously unknown. 
 This research has been driven by my passion for leveraging technology to help tackle impactful real-world problems which 
-were previously impossible to solve. 
+were previously impossible to solve.
 I am beyond excited to tackle the growing number of ready-to-solve problems that NLP has unlocked in a vast number of fields
 from medicine and science to journalism, governance, education and more.
 
