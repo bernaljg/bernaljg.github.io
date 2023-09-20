@@ -13,19 +13,12 @@ I feel very fortunate to be advised by [Prof. Yu Su](https://ysu1989.github.io/)
 
 ## Research Interests
 
-Over the last few years, my research has focused on leveraging and understanding **language models** of different 
-sizes and specialized in different domains for biomedical NLP tasks such as **information extraction** and **text classification**, 
-key components of downstream applications such as organizing scientific literature, detecting 
-dangerous drug-drug interactions or finding side-effects on social media which were previously unknown. 
-This research has been driven by my passion for leveraging technology to help tackle impactful real-world problems which 
-were previously impossible to solve.
-I am beyond excited to tackle the growing number of ready-to-solve problems that NLP has unlocked in a vast number of fields
-from medicine and science to journalism, governance, education and more.
+My research interests are broadly centered around understanding and developing NLP technologies in knowledge-rich domains, such as biomedicine, science, law, journalism and more. Within these domains, I am passionate about both \textbf{translational} research that looks to solve impactful real-world problems as well as more \textbf{fundamental} research concerning the exciting new abilities of LLMs.
 
-Beyond translational research, I am very interested in exploring how the apparent intelligence of LLMs emerges and
-how it relates to human cognition. More specifically, I aim to investigate the interdependence of memorization and reasoning
-in large and small LMs through retrieval-augmentation as well as knowledge-editing and probing methodology. Our
-intuition suggests that our reasoninig abilities are separate from the facts that what we have memorized, I therefore believe that exploring to what extent LLMs can do this as well will lead to interesting insights for both improving LLMs and perhaps seeing our own brains a bit differently.
+Over the last few years, my research has mainly focused on leveraging and understanding **language models** (of different 
+sizes and pre-trained on different domains) to improve fundamental biomedical NLP tasks like **information extraction** for downstream applications such as organizing scientific literature or detecting dangerous drug-drug interactions. I am beyond excited to continue tackling the growing number of ready-to-solve problems that NLP has unlocked in a vast number of complex and knowledge-rich fields from medicine and science to journalism, governance, education and more.
+
+More fundamentally, I am interested in investigating the interdependence of memorization and reasoning in large and small LMs.  Our intuition suggests that we our reasoning abilities can be used generally, even outside of domains we have memorized well. However, it is still unclear whether LMs have similarly disentangled their reasoning capabilities with the embedding of knowledge from their pre-trained corpus. I believe addressing this question could lead to interesting insights for both improving LLMs for domains in which rich knowledge is required and perhaps even for seeing our own brains a bit differently.
 
 ## News
 
