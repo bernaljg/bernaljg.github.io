@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi!
-
 I'm a fifth year Computer Science PhD student at The Ohio State University. 
 I feel very fortunate to be advised by [Prof. Yu Su](https://ysu1989.github.io/) and form part of the wonderful OSU NLP lab.
 
@@ -26,9 +24,8 @@ from medicine and science to journalism, governance, education and more.
 
 Beyond translational research, I am very interested in exploring how the apparent intelligence of LLMs emerges and
 how it relates to human cognition. More specifically, I aim to investigate the interdependence of memorization and reasoning
-in LLMs through retrieval-augmentation as well as methods from the knowledge-editing and probing literature. Given that our
-intuition dictates that we can reason without memorization, I believe that exploring to what extent LLMs can do this as well
-will lead to interesting insights for both improving LLMs and perhaps seeing our own brains a bit differently.
+in large and small LMs through retrieval-augmentation as well as knowledge-editing and probing methodology. Our
+intuition suggests that our reasoninig abilities are separate from the facts that what we have memorized, I therefore believe that exploring to what extent LLMs can do this as well will lead to interesting insights for both improving LLMs and perhaps seeing our own brains a bit differently.
 
 ## News
 
