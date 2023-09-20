@@ -16,7 +16,7 @@ Education
 Work experience
 ======
 * Fall 2019 - Present: Research Assistant
-  * Data, Knowledge and Intelligence Lab
+  * OSU NLP
   * The Ohio State University
   * Supervisor: [Prof. Yu Su](https://ysu1989.github.io)
 
@@ -34,6 +34,8 @@ Academic Service
   * EACL 2021
   * EMNLP 2021
   * EMNLP 2022
+  * ACL 2023
+  * AAAI 2024
 * External Reviewer:
   * EMNLP 2020
   * ACL 2021
