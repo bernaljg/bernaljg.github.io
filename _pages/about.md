@@ -32,24 +32,26 @@ More fundamentally, I am interested in investigating the interdependence of memo
 
 ## Short Bio
 
-I obtained my BA in Applied Mathematics from UC Berkeley where I also first encountered the wonders of backprop at 
-the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/). 
-After graduation, in order to pursue my passion for solving impactful problems, I joined
+After growing up in Costa Rica I moved to the US in 2011 to obtain my BA in Applied Mathematics from UC Berkeley and start my journey in AI. 
+I first encountered the wonders of backprop while doing neuroscience research at the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/). 
+After graduation I decided to pursue my passion for solving real-world problems and joined
 [Dr. Karim Galil](https://www.linkedin.com/in/karim-galil-m-d-83a2b258/) 
 and [Dr. Wael Salloum](https://www.linkedin.com/in/waelsalloum/) at [Mendel AI](https://www.mendel.ai/), 
 a biomedical NLP startup working to make clinical trial recruitment more effective and efficient. 
 At Mendel, I not only developed my technical and research skills but also saw first hand 
 what it takes to build a successful company from the ground up. 
 
-After three years, in the Fall of 2019, I left Mendel to join the OSU NLP lab and further develop my research skills. 
+I left Mendel three years later and started my PhD life at the OSU NLP lab to further develop my research skills. 
 Most recently, in the summer of 2022, I completed a research internship in [Dr. Olivier Bodenreider’s](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html) 
 lab at the National Library of Medicine working on improving the construction process of the Unified Medical Language System (UMLS). 
 
 For more information, please check out my [CV (July 2023)](https://bernaljg.github.io/files/Bernal_Jimenez_CV__July_2023.pdf).
 
-## Hobbies & Fun
+## Hobbies & Fun Times
 
 In my free time, I like to stay active by going to the gym, dancing, playing soccer, climbing and hiking (preferably to 
-and from tall mountains). I also love meeting interesting new people and learning about their lives (conferences are my 
-happy place). When I am not moving around or socializing I like indulging in fun escapist content such as fantasy, 
-sci-fi and even some magical realism from time to time. 
+and from tall mountains). I also love meeting interesting new people and learning about their lives and research (conferences are my 
+happy place). When I am not moving around or socializing I like fun escapist content such as fantasy, 
+sci-fi and even some magical realism every once in a while.
+
+Please send me an email or message me on Twitter if you wanna chat. Always down to meet new people!
