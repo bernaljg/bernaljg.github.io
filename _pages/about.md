@@ -13,7 +13,7 @@ I feel very fortunate to be advised by [Prof. Yu Su](https://ysu1989.github.io/)
 
 ## Research Interests
 
-My research interests are broadly centered around understanding and developing NLP technologies in knowledge-rich domains, such as biomedicine, science, law, journalism and more. Within these domains, I am passionate about both \textbf{translational} research that looks to solve impactful real-world problems as well as more \textbf{fundamental} research concerning the exciting new abilities of LLMs.
+My research interests are broadly centered around understanding and developing NLP technologies in knowledge-rich domains, such as biomedicine, science, law, journalism and more. Within these domains, I am passionate about both translational research that looks to solve impactful real-world problems as well as more fundamental research concerning the exciting new abilities of LLMs.
 
 Over the last few years, my research has mainly focused on leveraging and understanding **language models** (of different 
 sizes and pre-trained on different domains) to improve fundamental biomedical NLP tasks like **information extraction** for downstream applications such as organizing scientific literature or detecting dangerous drug-drug interactions. I am beyond excited to continue tackling the growing number of ready-to-solve problems that NLP has unlocked in a vast number of complex and knowledge-rich fields from medicine and science to journalism, governance, education and more.
