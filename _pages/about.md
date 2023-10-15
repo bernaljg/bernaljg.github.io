@@ -45,7 +45,7 @@ I left Mendel three years later and started my PhD life at the OSU NLP lab to fu
 Most recently, in the summer of 2022, I completed a research internship in [Dr. Olivier Bodenreider’s](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html) 
 lab at the National Library of Medicine working on improving the construction process of the Unified Medical Language System (UMLS). 
 
-For more information, please check out my [CV (July 2023)](https://bernaljg.github.io/files/Bernal_Jimenez_CV__July_2023.pdf).
+For more information, please check out my [CV (October 2023)](https://bernaljg.github.io/files/Bernal_Jimenez_CV__October_2023_.pdf).
 
 ## Hobbies & Fun Times
 
