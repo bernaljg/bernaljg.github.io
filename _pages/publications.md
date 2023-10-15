@@ -14,6 +14,12 @@ permalink: /publications/
   {% include archive-single.html %}
 {% endfor %}
  -->
+
+* **Solving the Right Problem is Key for Translational NLP: A Case Study in UMLS Vocabulary Insertion** <br>
+<span style="color:grey">Bernal Jiménez Gutiérrez, Yuqing Mao, Vinh Nguyen, Kin Wah Fung, Yu Su, Olivier Bodenreider</span> <br>
+**December 2023 | Findings in EMNLP 2023** <br>
+(Paper & Code Coming Soon!)
+
 * **Biomedical Language Models are Robust to Sub-optimal Tokenization** <br>
 <span style="color:grey">Bernal Jiménez Gutiérrez, Huan Sun, Yu Su</span> <br>
 **BioNLP @ ACL 2023** <br>
