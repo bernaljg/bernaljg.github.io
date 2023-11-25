@@ -18,10 +18,11 @@ My research interests are broadly centered around understanding and developing N
 Over the last few years, my research has mainly focused on leveraging and understanding **language models** (of different 
 sizes and pre-trained on different domains) to improve fundamental biomedical NLP tasks like **information extraction** for downstream applications such as organizing scientific literature or detecting dangerous drug-drug interactions. I am beyond excited to continue tackling the growing number of ready-to-solve problems that NLP has unlocked in a vast number of complex and knowledge-rich fields from medicine and science to journalism, governance, education and more.
 
-More fundamentally, I am interested in investigating the interdependence of memorization and reasoning in large and small LMs.  Our intuition suggests that our reasoning abilities can be used regardless of context, well outside domains we have memorized well. However, it is still unclear whether LLMs have similarly disentangled their reasoning capabilities from their more straighforward semantic representation abilities. I believe addressing this question could lead to interesting insights for both improving LLMs for domains in which rich knowledge is required and perhaps even for seeing our own brains a bit differently.
+More fundamentally, I am interested in investigating the extent of interdependence between memorization and reasoning in language models.  Our intuition suggests that reasoning can be used regardless of context, well outside domains we have memorized. However, it is still unclear whether LLMs have similarly disentangled their reasoning capabilities from their more obvious semantic representation and memorization abilities. I believe addressing this question could lead to interesting insights for both improving LLMs for knowledge-rich domains and perhaps even for seeing our own brains a bit differently.
 
 ## News
 
+<b>10/2023:</b> Our [paper](https://github.com/OSU-NLP-Group/UMLS-Vocabulary-Insertion) examining the importance of problem formulation for real-world problems through the task of UMLS Vocabulary Insertion was accepted to EMNLP 2023 (Findings). This paper was partially completed during my internship at the National Library of Medicine.<br>
 <b>6/2023:</b> Our [paper](https://arxiv.org/pdf/2306.17649.pdf) exploring whether the sub-optimal segmentation performance of standard biomedical tokenizers has an effect on downstream LM performance was accepted to the BioNLP Workshop @ ACL 2023.<br>
 <b>5/2023:</b> Our [paper](https://arxiv.org/pdf/2305.11159.pdf) unlocking the hidden relation extraction abilities of LLMs by aligning RE with question answering was accepted to ACL 2023 (Findings).<br>
 <b>10/2022:</b> Our [paper](https://arxiv.org/pdf/2203.08410.pdf) discussing potential limitations of GPT-3 in-context learning for biomedical IE was accepted to EMNLP 2022 (Findings). <br>
@@ -32,16 +33,16 @@ More fundamentally, I am interested in investigating the interdependence of memo
 
 ## Short Bio
 
-After growing up in Costa Rica I moved to the US in 2011 to obtain my BA in Applied Mathematics from UC Berkeley and start my journey in AI. 
-I first encountered the wonders of backprop while doing neuroscience research at the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/). 
-After graduation I decided to pursue my passion for solving real-world problems and joined
+I grew up in San José, Costa Rica and moved to the US in 2011 to obtain my BA in Applied Mathematics from UC Berkeley.
+I first encountered the wonders of backprop while doing theoretical neuroscience research at the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/). 
+After graduation I decided to pursue my passion for practical problems and joined
 [Dr. Karim Galil](https://www.linkedin.com/in/karim-galil-m-d-83a2b258/) 
 and [Dr. Wael Salloum](https://www.linkedin.com/in/waelsalloum/) at [Mendel AI](https://www.mendel.ai/), 
-a biomedical NLP startup working to make clinical trial recruitment more effective and efficient. 
+a biomedical NLP startup working to make clinical trial recruitment for precision medicine more efficient.
 At Mendel, I not only developed my technical and research skills but also saw first hand 
 what it takes to build a successful company from the ground up. 
 
-I left Mendel three years later and started my PhD life at the OSU NLP lab to further develop my research skills. 
+I left Mendel three years later and started my PhD life at the OSU NLP lab. 
 Most recently, in the summer of 2022, I completed a research internship in [Dr. Olivier Bodenreider’s](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html) 
 lab at the National Library of Medicine working on improving the construction process of the Unified Medical Language System (UMLS). 
 
@@ -52,6 +53,6 @@ For more information, please check out my [CV (October 2023)](https://bernaljg.g
 In my free time, I like to stay active by going to the gym, dancing, playing soccer, climbing and hiking (preferably to 
 and from tall mountains). I also love meeting interesting new people and learning about their lives and research (conferences are my 
 happy place). When I am not moving around or socializing I like fun escapist content such as fantasy, 
-sci-fi and even some magical realism every once in a while.
+sci-fi and some magical realism every once in a while.
 
 Please send me an email or message me on Twitter if you wanna chat. Always down to meet new people!
