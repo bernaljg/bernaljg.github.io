@@ -13,22 +13,29 @@ I feel very fortunate to be advised by [Prof. Yu Su](https://ysu1989.github.io/)
 
 ## Research Interests
 
-My research interests are broadly centered around understanding and developing NLP technologies in knowledge-rich domains, such as biomedicine, science, law, journalism and more. Within these domains, I am passionate about both **translational** research that looks to solve impactful real-world problems as well as more **fundamental** research concerning the exciting new abilities of LLMs.
+My research interests are broadly centered around understanding and developing NLP technologies in knowledge-rich domains such as biomedicine. I am passionate about both **translational** research that works on solving impactful real-world problems as well as more **fundamental** research concerning the exciting new abilities of LLMs.
 
 Over the last few years, my research has mainly focused on leveraging and understanding **language models** (of different 
-sizes and pre-trained on different domains) to improve fundamental biomedical NLP tasks like **information extraction** for downstream applications such as organizing scientific literature or detecting dangerous drug-drug interactions. I am beyond excited to continue tackling the growing number of ready-to-solve problems that NLP has unlocked in a vast number of complex and knowledge-rich fields from medicine and science to journalism, governance, education and more.
+sizes and pre-trained on different domains) to improve fundamental biomedical NLP tasks like **information extraction** as well as downstream tasks such as detecting dangerous drug-drug interactions and adverse events. I am beyond excited to continue tackling the growing number of ready-to-solve problems that the recent progress on NLP has unlocked in complex knowledge-rich domains.
 
-More fundamentally, I am interested in investigating the extent of interdependence between memorization and reasoning in language models.  Our intuition suggests that reasoning can be used regardless of context, well outside domains we have memorized. However, it is still unclear whether LLMs have similarly disentangled their reasoning capabilities from their more obvious semantic representation and memorization abilities. I believe addressing this question could lead to interesting insights for both improving LLMs for knowledge-rich domains and perhaps even for seeing our own brains a bit differently.
+On the other hand, I am intensely curious about exploring the extent of the interdependence that exists between memorization and reasoning in language models.  Human reasoning can be used regardless of context and well outside domains we have memorized, however, it is still unclear whether LLMs have similarly disentangled their reasoning capabilities from their more obvious semantic representation and memorization abilities. I believe addressing this question could lead to breakthroughs for improving LLMs for knowledge-rich domains and perhaps even understanding for our own brains a bit more deeply.
 
 ## News
 
-<b>10/2023:</b> Our [paper](https://github.com/OSU-NLP-Group/UMLS-Vocabulary-Insertion) examining the importance of problem formulation for real-world problems through the task of UMLS Vocabulary Insertion was accepted to EMNLP 2023 (Findings). This paper was partially completed during my internship at the National Library of Medicine.<br>
+<b>10/2023:</b> Our [paper](https://github.com/OSU-NLP-Group/UMLS-Vocabulary-Insertion) examining the importance of problem formulation for real-world problems through the task of UMLS Vocabulary Insertion was accepted to EMNLP 2023 (Findings).
+
 <b>6/2023:</b> Our [paper](https://arxiv.org/pdf/2306.17649.pdf) exploring whether the sub-optimal segmentation performance of standard biomedical tokenizers has an effect on downstream LM performance was accepted to the BioNLP Workshop @ ACL 2023.<br>
+
 <b>5/2023:</b> Our [paper](https://arxiv.org/pdf/2305.11159.pdf) unlocking the hidden relation extraction abilities of LLMs by aligning RE with question answering was accepted to ACL 2023 (Findings).<br>
+
 <b>10/2022:</b> Our [paper](https://arxiv.org/pdf/2203.08410.pdf) discussing potential limitations of GPT-3 in-context learning for biomedical IE was accepted to EMNLP 2022 (Findings). <br>
+
 <b>5/2022:</b> Joined Dr. Bodenreider's lab at the National Library of Medicine for a summer internship. <br>
+
 <b>3/2021:</b> Won an Accelerator Grant from the Translational Data Analytics Institute for Social Media Pharmacovigilance. <br>
+
 <b>10/2020:</b> Our [paper](https://aclanthology.org/2020.findings-emnlp.332/) introducing a text classification dataset regarding COVID-19 documents was accepted to EMNLP 2020 (Findings). <br>
+
 <b>4/2020:</b> Our [paper]( http://aclanthology.lst.uni-saarland.de/2020.acl-main.410.pdf) conducting a comprehensive study on the Clinical Reading Comprehension task based on the emrQA dataset was accepted to ACL 2020. <br>
 
 ## Short Bio
@@ -39,7 +46,7 @@ After graduation I decided to pursue my passion for practical problems and joine
 [Dr. Karim Galil](https://www.linkedin.com/in/karim-galil-m-d-83a2b258/) 
 and [Dr. Wael Salloum](https://www.linkedin.com/in/waelsalloum/) at [Mendel AI](https://www.mendel.ai/), 
 a biomedical NLP startup working to make clinical trial recruitment for precision medicine more efficient.
-At Mendel, I not only developed my technical and research skills but also saw first hand 
+At Mendel, I not only developed my technical and AI research skills but also saw first hand 
 what it takes to build a successful company from the ground up. 
 
 I left Mendel three years later and started my PhD life at the OSU NLP lab. 
