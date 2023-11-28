@@ -22,7 +22,7 @@ On the other hand, I am intensely curious about exploring the extent of the inte
 
 ## News
 
-<b>10/2023:</b> Our [paper](https://github.com/OSU-NLP-Group/UMLS-Vocabulary-Insertion) examining the importance of problem formulation for real-world problems through the task of UMLS Vocabulary Insertion was accepted to EMNLP 2023 (Findings).
+<b>10/2023:</b> Our [paper](https://arxiv.org/abs/2311.15106.pdf) examining the importance of problem formulation for real-world problems through the task of UMLS Vocabulary Insertion was accepted to EMNLP 2023 (Findings).
 
 <b>6/2023:</b> Our [paper](https://arxiv.org/pdf/2306.17649.pdf) exploring whether the sub-optimal segmentation performance of standard biomedical tokenizers has an effect on downstream LM performance was accepted to the BioNLP Workshop @ ACL 2023.<br>
 
