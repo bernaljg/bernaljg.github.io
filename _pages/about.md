@@ -15,10 +15,10 @@ I feel very fortunate to be advised by [Prof. Yu Su](https://ysu1989.github.io/)
 
 My research interests are broadly centered around understanding and developing NLP technologies in knowledge-rich domains such as biomedicine. I am passionate about both **translational** research that works on solving impactful real-world problems as well as more **fundamental** research concerning the exciting new abilities of LLMs.
 
-Over the last few years, my research has mainly focused on leveraging and understanding **language models** (of different 
-sizes and pre-trained on different domains) to improve fundamental biomedical NLP tasks like **information extraction** as well as downstream tasks such as detecting dangerous drug-drug interactions and adverse events. I am beyond excited to continue tackling the growing number of ready-to-solve problems that the recent progress on NLP has unlocked in complex knowledge-rich domains.
+Over the last few years, my research has mainly focused on understanding how to best leverage **language models** (of different 
+sizes and pre-trained on different domains) for a wide variety of biomedical NLP tasks such as **document classification**, **information extraction** and **knowledge base construction**. I am passionate about guiding NLP practitioners in these domains through the still poorly understood landscape of language modeling systems to help them choose the best techniques for their specific real-world problems.
 
-On the other hand, I am intensely curious about exploring the extent of the interdependence that exists between memorization and reasoning in language models.  Human reasoning can be used regardless of context and well outside domains we have memorized, however, it is still unclear whether LLMs have similarly disentangled their reasoning capabilities from their more obvious semantic representation and memorization abilities. I believe addressing this question could lead to breakthroughs for improving LLMs for knowledge-rich domains and perhaps even understanding for our own brains a bit more deeply.
+On the other hand, I am intensely curious about exploring the extent of the interdependence between memorization and reasoning in language models.  Human reasoning can be used regardless of context and well outside domains we have memorized, however, it is still unclear whether LLMs have similarly disentangled their reasoning capabilities from their more obvious semantic representation and memorization abilities. I believe addressing this question could lead to breakthroughs for improving LLMs for knowledge-rich domains and perhaps even for understanding our own brains a bit more deeply.
 
 ## News
 
@@ -53,7 +53,7 @@ I left Mendel three years later and started my PhD life at the OSU NLP lab.
 Most recently, in the summer of 2022, I completed a research internship in [Dr. Olivier Bodenreider’s](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html) 
 lab at the National Library of Medicine working on improving the construction process of the Unified Medical Language System (UMLS). 
 
-For more information, please check out my [CV (October 2023)](https://bernaljg.github.io/files/Bernal_Jimenez_CV__October_2023_.pdf).
+For more information, please check out my [CV (December 2023)](https://bernaljg.github.io/files/Bernal_Jimenez_CV__December_2023_.pdf).
 
 ## Hobbies & Fun Times
 
