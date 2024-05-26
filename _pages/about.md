@@ -13,14 +13,17 @@ I feel very fortunate to be advised by [Prof. Yu Su](https://ysu1989.github.io/)
 
 ## Research Interests
 
-My research interests are broadly centered around understanding and developing NLP technologies in knowledge-rich domains such as biomedicine. I am passionate about both **translational** research that works on solving impactful real-world problems as well as more **fundamental** research concerning the exciting new abilities of LLMs.
+My research interests are broadly centered around two mutually-inspiring directions. On one hand, my **translational** research focuses on building NLP for knowledge-rich domains, especially biomedicine. On the other hand, my familiarity with neuroscience and substantial biomedical NLP experience has inspired me to address **fundamental** problems with current LLMs with neurobiological insights, especially around their long-term memory.
 
-Over the last few years, my research has mainly focused on understanding how to best leverage **language models** (of different 
-sizes and pre-trained on different domains) for a wide variety of biomedical NLP tasks such as **document classification**, **information extraction** and **knowledge base construction**. I am passionate about guiding NLP practitioners in these domains through the still poorly understood landscape of language modeling systems to help them choose the best techniques for their specific real-world problems.
+My **translational** research has focused on understanding how to best leverage **language models** for a wide variety of biomedical NLP tasks such as **document classification**, **information extraction** and **knowledge base construction**. I am passionate about guiding NLP practitioners in these domains through the complex LLM landscape and help them choose the best techniques for their specific real-world problems.
 
-On the other hand, I am intensely curious about exploring the extent of the interdependence between memorization and reasoning in language models.  Human reasoning can be used regardless of context and well outside domains we have memorized, however, it is still unclear whether LLMs have similarly disentangled their reasoning capabilities from their more obvious semantic representation and memorization abilities. I believe addressing this question could lead to breakthroughs for improving LLMs for knowledge-rich domains and perhaps even for understanding our own brains a bit more deeply.
+My more **fundamental** research focuses on exploring the interdependence between memorization and reasoning in language models.  Humans can succesfully use their powerful reasoning capabilities in domains they know nothing about. However, it is still unclear whether LLMs' reasoning capacity is similarly disentangled from their more obvious semantic representation and memorization abilities. 
+
+In our most recent work, [HippoRAG](https://arxiv.org/abs/2405.14831), we introduce a retrieval-augmented generation (RAG) framework inspired by human long-term memory which is remarkably simple but also strong and flexible. The somewhat surprising success of our first foray in this direction suggests that mimicking our brain's architecture could be a useful framework for building future LLMs, especially those which can more effectively separate reasoning and memorization. 
 
 ## News
+
+<b>5/2024:</b> We released ["HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models"](https://arxiv.org/abs/2405.14831), a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents.
 
 <b>10/2023:</b> Our [paper](https://arxiv.org/abs/2311.15106.pdf) examining the importance of problem formulation for real-world problems through the task of UMLS Vocabulary Insertion was accepted to EMNLP 2023 (Findings).
 
