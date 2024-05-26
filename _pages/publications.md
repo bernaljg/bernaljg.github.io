@@ -15,10 +15,15 @@ permalink: /publications/
 {% endfor %}
  -->
 
+* **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models** <br>
+<span style="color:grey">Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su</span> <br>
+**arXiv** <br>
+[\[pdf\]](https://arxiv.org/abs/2405.14831)[\[code\]](https://github.com/OSU-NLP-Group/HippoRAG) 
+
 * **Solving the Right Problem is Key for Translational NLP: A Case Study in UMLS Vocabulary Insertion** <br>
 <span style="color:grey">Bernal Jiménez Gutiérrez, Yuqing Mao, Vinh Nguyen, Kin Wah Fung, Yu Su, Olivier Bodenreider</span> <br>
 **December 2023 | Findings in EMNLP 2023** <br>
-(Paper & Code Coming Soon!)
+[\[pdf\]](https://aclanthology.org/2023.findings-emnlp.51.pdf)[\[code\]](https://github.com/OSU-NLP-Group/UMLS-Vocabulary-Insertion)
 
 * **Biomedical Language Models are Robust to Sub-optimal Tokenization** <br>
 <span style="color:grey">Bernal Jiménez Gutiérrez, Huan Sun, Yu Su</span> <br>
