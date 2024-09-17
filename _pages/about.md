@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fifth year Computer Science PhD student at The Ohio State University. 
+I'm in the final year of my PhD in Computer Science & Engineering at The Ohio State University. 
 I feel very fortunate to be advised by [Prof. Yu Su](https://ysu1989.github.io/) and form part of the wonderful OSU NLP lab.
+
+Currently looking for Fall 2025 opportunities! 
 
 ## Research Interests
 
-My research interests are broadly centered around two mutually-inspiring directions. On one hand, my **translational** research focuses on building NLP for knowledge-rich domains, especially biomedicine. On the other hand, my familiarity with neuroscience and substantial biomedical NLP experience has inspired me to address **fundamental** problems with current LLMs with neurobiological insights, especially around their long-term memory.
+My research interests lie in the intersection between **biology** and **AI**. On the one hand, I am passionate about how AI systems can accelerate biomedical research and directly improve people's lives. On the other hand, neurobiology is extremely inspiring to me and I strongly believe that human brain insights will help us overcome some of the current limitations in AI systems such as failures in reasoning, knowledge retrieval and continual learning.
 
-My **translational** research has focused on understanding how to best leverage **language models** for a wide variety of biomedical NLP tasks such as **document classification**, **information extraction** and **knowledge base construction**. I am passionate about guiding NLP practitioners in these domains through the complex LLM landscape and help them choose the best techniques for their specific real-world problems.
+My (**AI** -> **Biology**) research has focused on understanding how to best leverage **LLMs** for a wide variety of biomedical NLP tasks such as **document classification**, **information extraction** and **knowledge base construction**.
 
-My more **fundamental** research focuses on exploring the interdependence between memorization and reasoning in language models.  Humans can succesfully use their powerful reasoning capabilities in domains they know nothing about. However, it is still unclear whether LLMs' reasoning capacity is similarly disentangled from their more obvious semantic representation and memorization abilities. 
-
-In our most recent work, [HippoRAG](https://arxiv.org/abs/2405.14831), we introduce a retrieval-augmented generation (RAG) framework inspired by human long-term memory which is remarkably simple but also strong and flexible. The somewhat surprising success of our first foray in this direction suggests that mimicking our brain's architecture could be a useful framework for building future LLMs, especially those which can more effectively separate reasoning and memorization. 
+My (**Biology** -> **AI**) research focuses on understanding brain mechanisms in a more abstract way that can inspire useful and novel ways of thinking about current AI limitations.  [HippoRAG](https://arxiv.org/abs/2405.14831) is a wonderful example which leverages a well-established theory of human long-term memory to inspire a simple, efficient and powerful retrieval-augmented generation (RAG) framework.
 
 ## News
 
@@ -56,13 +56,12 @@ I left Mendel three years later and started my PhD life at the OSU NLP lab.
 Most recently, in the summer of 2022, I completed a research internship in [Dr. Olivier Bodenreider’s](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html) 
 lab at the National Library of Medicine working on improving the construction process of the Unified Medical Language System (UMLS). 
 
-For more information, please check out my [CV (December 2023)](https://bernaljg.github.io/files/Bernal_Jimenez_CV__December_2023_.pdf).
+For more information, please check out my [CV (September 2024)](https://bernaljg.github.io/files/Bernal_Jimenez_CV__2024_.pdf).
 
 ## Hobbies & Fun Times
 
-In my free time, I like to stay active by going to the gym, dancing, playing soccer, climbing and hiking (preferably to 
+In my free time, I like to stay active by dancing, playing soccer, climbing and hiking (preferably to 
 and from tall mountains). I also love meeting interesting new people and learning about their lives and research (conferences are my 
-happy place). When I am not moving around or socializing I like fun escapist content such as fantasy, 
-sci-fi and some magical realism every once in a while.
+happy place).
 
 Please send me an email or message me on Twitter if you wanna chat. Always down to meet new people!
