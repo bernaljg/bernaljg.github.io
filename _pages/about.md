@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm in the final year of my PhD in Computer Science & Engineering at The Ohio State University. 
+I'm in the **final year** of my PhD in Computer Science & Engineering at The Ohio State University. 
 I feel very fortunate to be advised by [Prof. Yu Su](https://ysu1989.github.io/) and form part of the wonderful OSU NLP lab.
 
-Currently looking for Fall 2025 opportunities! 
+*Currently looking for Fall 2025 opportunities!*
 
 ## Research Interests
 
 My research interests lie in the intersection between **biology** and **AI**. On the one hand, I am passionate about how AI systems can accelerate biomedical research and directly improve people's lives. On the other hand, neurobiology is extremely inspiring to me and I strongly believe that human brain insights will help us overcome some of the current limitations in AI systems such as failures in reasoning, knowledge retrieval and continual learning.
 
-My (**AI** -> **Biology**) research has focused on understanding how to best leverage **LLMs** for a wide variety of biomedical NLP tasks such as **document classification**, **information extraction** and **knowledge base construction**.
+My (**AI** -> **Biology**) research focuses on understanding how to best leverage **language models** for a wide variety of important biomedical NLP tasks such as **document classification**, **information extraction** and **knowledge base construction**.
 
-My (**Biology** -> **AI**) research focuses on understanding brain mechanisms in a more abstract way that can inspire useful and novel ways of thinking about current AI limitations.  [HippoRAG](https://arxiv.org/abs/2405.14831) is a wonderful example which leverages a well-established theory of human long-term memory to inspire a simple, efficient and powerful retrieval-augmented generation (RAG) framework.
+My (**Biology** -> **AI**) research focuses on leveraging insights from brain mechanisms to can inspire useful and novel ways of addressing current AI limitations. Our most recent work, [HippoRAG](https://arxiv.org/abs/2405.14831), is a wonderful example which leverages a well-established theory of human long-term memory to inspire a simple, efficient and powerful retrieval-augmented generation (RAG) framework.
 
 ## News
 
