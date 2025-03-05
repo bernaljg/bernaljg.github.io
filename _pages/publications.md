@@ -15,10 +15,21 @@ permalink: /publications/
 {% endfor %}
  -->
 
+
+* **From RAG to Memory: Non-Parametric Continual Learning for Large Language Models** <br>
+<span style="color:grey">Bernal Jiménez Gutiérrez*, Yiheng Shu*, Weijian Qi, Sizhe Zhou, Yu Su</span> <br>
+**arXiv** <br>
+[\[pdf\]](https://arxiv.org/pdf/2502.14802)[\[code\]](https://github.com/OSU-NLP-Group/HippoRAG) 
+
+* **Attention in Large Language Models Yields Efficient Zero-Shot Re-Rankers** <br>
+<span style="color:grey">Shijie Chen, Bernal Jiménez Gutiérrez, Yu Su</span> <br>
+**April 2025 | ICLR 2025** <br>
+[\[pdf\]](https://arxiv.org/abs/2410.02642)[\[code\]](https://github.com/OSU-NLP-Group/In-Context-Reranking) 
+
 * **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models** <br>
 <span style="color:grey">Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su</span> <br>
-**arXiv** <br>
-[\[pdf\]](https://arxiv.org/abs/2405.14831)[\[code\]](https://github.com/OSU-NLP-Group/HippoRAG) 
+**December 2024 | NeurIPS 2024** <br>
+[\[pdf\]](https://arxiv.org/abs/2405.14831)[\[code\]](https://github.com/OSU-NLP-Group/HippoRAG/tree/legacy) 
 
 * **Solving the Right Problem is Key for Translational NLP: A Case Study in UMLS Vocabulary Insertion** <br>
 <span style="color:grey">Bernal Jiménez Gutiérrez, Yuqing Mao, Vinh Nguyen, Kin Wah Fung, Yu Su, Olivier Bodenreider</span> <br>
