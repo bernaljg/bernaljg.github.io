@@ -24,6 +24,14 @@ This side of my research focuses on understanding how to best leverage **languag
 My research in this area focuses on leveraging insights from brain mechanisms to can inspire useful and novel ways of addressing current AI limitations. Our most recent work, [HippoRAG](https://arxiv.org/abs/2405.14831), is a wonderful example which leverages a well-established theory of human long-term memory to inspire a simple, efficient and powerful retrieval-augmented generation (RAG) framework.
 
 ## News
+<b>2/2025:</b> We released the paper and code for our new version of HippoRAG. The paper ["From RAG to Memory: Non-Parametric Continual Learning for
+Large Language Models"](https://arxiv.org/pdf/2502.14802), shows that our newest iteration outperforms other graph-augmented RAG solutions as well as the strongest standard RAG systems currently available.
+
+<b>1/2025:</b> Became a PhD candidate after my thesis proposal "AI for Biology & Biology for AI: Exploring the Symbiosis Between AI Systems and Biomedical Research" was accepted.
+
+<b>1/2025:</b> Our paper ["Attention in Large Language Models Yields Efficient Zero-Shot Re-Rankers"](https://arxiv.org/abs/2410.02642), which explores how LLM attention can be used to improve re-ranking was accepted to ICLR 2025.
+
+<b>9/2024:</b> HippoRAG was accepted to NeurIPS 2024!
 
 <b>5/2024:</b> We released ["HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models"](https://arxiv.org/abs/2405.14831), a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents.
 
