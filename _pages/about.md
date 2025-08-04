@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm in the **final year** of my PhD in Computer Science & Engineering at The Ohio State University. 
-I feel very fortunate to be advised by [Prof. Yu Su](https://ysu1989.github.io/) and form part of the wonderful OSU NLP lab.
+I recently completed my PhD in Computer Science & Engineering at The Ohio State University, where I was a member of the OSU NLP Lab under the guidance of [Prof. Yu Su](https://ysu1989.github.io/).
 
-*Currently looking for Fall 2025 opportunities!*
+In September, I will be joining [Prof. Mark Dredze's](https://www.cs.jhu.edu/~mdredze/) group at Johns Hopkins University as a postdoctoral researcher.
 
 ## Research Interests
 
