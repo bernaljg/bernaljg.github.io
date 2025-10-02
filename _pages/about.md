@@ -14,15 +14,22 @@ I recently completed my PhD in Computer Science & Engineering at The Ohio State 
 
 ## Research Interests
 
-My research interests lie in the intersection between **biology** and **AI**. On the one hand, I am passionate about how AI systems can accelerate biomedical research and directly improve people's lives. On the other hand, neurobiology is extremely inspiring to me and I strongly believe that human brain insights will help us overcome some of the current limitations in AI systems such as failures in reasoning, knowledge retrieval and continual learning.
+My research interests lie in the intersection between **biology** and **AI**. 
 
-### **AI** &rarr; **Biology** 
-This side of my research focuses on understanding how to best leverage **language models** for a wide variety of important biomedical NLP tasks such as **document classification**, **information extraction** and **knowledge base construction**.
+On the one hand, I am passionate about how AI systems can have a direct effect on people's lives by improving both biomedical research and clinical practice. 
 
-### **Biology** &rarr; **AI** 
-My research in this area focuses on leveraging insights from brain mechanisms to can inspire useful and novel ways of addressing current AI limitations. Our most recent work, [HippoRAG](https://arxiv.org/abs/2405.14831), is a wonderful example which leverages a well-established theory of human long-term memory to inspire a simple, efficient and powerful retrieval-augmented generation (RAG) framework.
+On the other hand, I am deeply inspired by neurobiology and believe that borrowing insights from the human brain will be key to building even more powerful AI systems that can continuously integrate new knowledge about the world and reason robustly over it just like we do.
 
 ## News
+
+<b>9/2025:</b> Started my postdoc at Johns Hopkins with Prof. Mark Dredze. Excited for this new chapter!
+
+<b>8/2025:</b> Thanks to my advisor, my committee, my OSU NLP and my lovely friends and family, I was able to earn my PhD from the Ohio State University!!
+
+<b>6/2025:</b> Happy to be part of OSU NLP's effort to evaluate LLM agents on real world long-horizon agentic tasks: ["Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge"](https://arxiv.org/abs/2506.21506).
+
+<b>5/2024:</b> HippoRAG 2 was accepted to ICML 2025!
+
 <b>2/2025:</b> We released the paper and code for our new version of HippoRAG. The paper ["From RAG to Memory: Non-Parametric Continual Learning for
 Large Language Models"](https://arxiv.org/pdf/2502.14802), shows that our newest iteration outperforms other graph-augmented RAG solutions as well as the strongest standard RAG systems currently available.
 
