@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my PhD in Computer Science & Engineering at The Ohio State University, where I was a member of the OSU NLP Lab under the guidance of [Prof. Yu Su](https://ysu1989.github.io/).
+I am a Postdoctoral Research Fellow in [Prof. Mark Dredze's](https://www.cs.jhu.edu/~mdredze/) lab at Johns Hopkins University. 
 
-In September, I will be joining [Prof. Mark Dredze's](https://www.cs.jhu.edu/~mdredze/) group at Johns Hopkins University as a postdoctoral researcher.
+I recently completed my PhD in Computer Science & Engineering at The Ohio State University, under the guidance of [Prof. Yu Su](https://ysu1989.github.io/) and the entire OSU NLP Group.
 
 ## Research Interests
 
