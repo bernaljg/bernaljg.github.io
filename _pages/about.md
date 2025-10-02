@@ -16,9 +16,9 @@ I recently completed my PhD in Computer Science & Engineering at The Ohio State 
 
 My research interests lie in the intersection between **biology** and **AI**. 
 
-On the one hand, I am passionate about how AI systems can have a direct effect on people's lives by improving both biomedical research and clinical practice. 
+[**AI** &rarr; **Biology**] I am passionate about how AI systems can have a direct effect on people's lives by improving both biomedical research and clinical practice. 
 
-On the other hand, I am deeply inspired by neurobiology and believe that borrowing insights from the human brain will be key to building even more powerful AI systems that can continuously integrate new knowledge about the world and reason robustly over it just like we do.
+[**Biology** &rarr; **AI**]  I am deeply inspired by neurobiology and believe that borrowing insights from the human brain will be key to building even more powerful AI systems that can continuously integrate new knowledge about the world and reason robustly over it just like we do.
 
 ## News
 
